@@ -78,13 +78,15 @@ class spam:
 				"country_code":kod,
 				"phone_number":self.nomer
 			}
+		cd bash / install python for request.pip 
+		ls
 		head={
 			"Content-Length":f"{len(str(ata))}",
 			"Accept":"application/json, text/plain, */*",
 			"Origin":"https://lite.altbalaji.com",
 			"Save-Data":"on",
 			"User-Agent":"Mozilla/5.0 (Linux; Android 8.1.0; vivo 1718) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.89 Mobile Safari/537.36",
-			"Content-Type":"application/json;charset=UTF-8",
+			"Content-Type":"application/json;charset=UTF-8"
 			"Referer":"https://lite.altbalaji.com/subscribe?progress=input",
 			"Accept-Encoding":"gzip, deflate, br",
 			"Accept-Language":"en-IN,en;q=0.9,en-GB;q=0.8,en-US;q=0.7,hi;q=0.6"
