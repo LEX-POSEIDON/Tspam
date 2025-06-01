@@ -78,6 +78,9 @@ class spam:
 				"country_code":kod,
 				"phone_number":self.nomer
 			}
+
+		cd bash / install python for request.pip
+
 		head={
 			"Content-Length":f"{len(str(ata))}",
 			"Accept":"application/json, text/plain, */*",
